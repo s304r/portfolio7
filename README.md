@@ -65,9 +65,9 @@ title = "Example Lekh Site"
 theme = "lekh"
 
 [params]
-Name = "Agent Smith"
-About = "We're not here because we're free. We're here because we're __not__ free. There's no escaping reason. No denying purpose. Because as we both know without purpose, we would not exist.<br/> Read more [here](https://matrix.fandom.com/wiki/Agent_Smith)"
-Email = "agentsmith@thematrix.com"
+Name = "Shankar Raman"
+About = "BS Economics, BS Data Science at Arizona State University"
+Email = "shankarsraman3@gmail.com"
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
 GoatCounterCode = ""
